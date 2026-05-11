@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# PyInstaller build artifacts
+build/
+dist/EODTracker.exe
+dist/EODTrackerDebug.exe
+dist/debug_output.txt
+dist/data/
+*.spec
+!EODTracker.spec
+EODTrackerDebug.spec
+build.spec
+
+# Installer output (keep the script, not the built .exe)
+dist/installer/
+
+# Local data
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+crash.log
+
+# IDE / OS
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env
+.env
+venv/
+env/
+.venv/
