@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" />
   <img src="https://img.shields.io/badge/PyQt6-6.x-green" />
   <img src="https://img.shields.io/badge/license-Internal-red" />
+  <br/><br/>
+  <a href="https://github.com/abhi-cop-dev10/eod-tracker/releases/download/v1.1.0/EODTracker_Setup_v1.1.0.exe">
+    <img src="https://img.shields.io/badge/Download-EODTracker_Setup_v1.1.0.exe-brightgreen?style=for-the-badge&logo=windows" />
+  </a>
 </p>
 
 ---
@@ -96,7 +100,7 @@ EOD Tracker is a **system tray app** that lives quietly in your Windows taskbar.
 
 ### Option A — Installer (recommended)
 
-1. Download **`EODTracker_Setup_v1.1.0.exe`** from [Releases](https://github.com/abhi-cop-dev10/eod-tracker/releases)
+1. Download **[EODTracker_Setup_v1.1.0.exe](https://github.com/abhi-cop-dev10/eod-tracker/releases/download/v1.1.0/EODTracker_Setup_v1.1.0.exe)**
 2. Run the installer — no admin rights required
 3. Choose whether to create a desktop shortcut and/or auto-start with Windows
 4. Click **Launch EOD Tracker** on the final screen
