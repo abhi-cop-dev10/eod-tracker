@@ -52,23 +52,43 @@ EOD Tracker is a **system tray app** that lives quietly in your Windows taskbar.
 
 ## Screenshots
 
-> _Add screenshots to `docs/screenshots/` and update these paths._
-
-| Floating Button | Task Panel | Bookmarks Panel |
-|:-:|:-:|:-:|
-| ![Floating Button](docs/screenshots/floating_button.png) | ![Task Panel](docs/screenshots/task_panel.png) | ![Bookmarks](docs/screenshots/bookmarks.png) |
-
-| Settings | Excel Export |
-|:-:|:-:|
-| ![Settings](docs/screenshots/settings.png) | ![Export](docs/screenshots/export.png) |
+<p align="center">
+  <img src="docs/screenshots/1.png" width="48%" />
+  <img src="docs/screenshots/2.png" width="48%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/3.png" width="48%" />
+  <img src="docs/screenshots/4.png" width="48%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/5.png" width="48%" />
+  <img src="docs/screenshots/6.png" width="48%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/7.png" width="48%" />
+  <img src="docs/screenshots/8.png" width="48%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/9.png" width="48%" />
+  <img src="docs/screenshots/10.png" width="48%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/11.png" width="48%" />
+  <img src="docs/screenshots/12.png" width="48%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/13.png" width="48%" />
+  <img src="docs/screenshots/14.png" width="48%" />
+</p>
 
 ---
 
 ## Demo Video
 
-> _Record a short screen capture and upload to GitHub Releases or YouTube, then link here._
+<!-- Replace YOUR_VIDEO_ID below with your YouTube video ID (the part after ?v= in the URL) -->
+<!-- Example: https://www.youtube.com/watch?v=dQw4w9WgXcQ → video ID is dQw4w9WgXcQ -->
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://github.com/abhi-cop-dev10/eod-tracker/releases)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
