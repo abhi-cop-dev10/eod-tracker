@@ -89,10 +89,9 @@ EOD Tracker is a **system tray app** that lives quietly in your Windows taskbar.
 
 ## Demo Video
 
-<!-- Replace YOUR_VIDEO_ID below with your YouTube video ID (the part after ?v= in the URL) -->
-<!-- Example: https://www.youtube.com/watch?v=dQw4w9WgXcQ → video ID is dQw4w9WgXcQ -->
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=github)](https://github.com/abhi-cop-dev10/eod-tracker/blob/main/docs/eod-tracker-intro.mp4)
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+> Click the badge above — GitHub plays the video directly in your browser.
 
 ---
 
