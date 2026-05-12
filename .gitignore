@@ -38,6 +38,9 @@ crash.log
 Thumbs.db
 desktop.ini
 
+# Docs / scripts not for repo
+docs/youtube_script.md
+
 # Env
 .env
 venv/
