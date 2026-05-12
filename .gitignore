@@ -40,6 +40,7 @@ desktop.ini
 
 # Docs / scripts not for repo
 docs/youtube_script.md
+# (eod-tracker-intro.mp4 is tracked intentionally)
 
 # Env
 .env
