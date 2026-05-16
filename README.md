@@ -1,11 +1,7 @@
 # EOD Tracker
 
 <p align="center">
-  <img src="assets/tray_icon.png" width="80" alt="EOD Tracker Logo" />
-</p>
-
-<p align="center">
-  <strong>A lightweight Windows desktop app for tracking daily tasks and exporting a filled Excel EOD report — built for the CodeClouds dev team.</strong>
+  <img src="docs/eod_cover.png" alt="EOD Tracker Cover" width="100%" />
 </p>
 
 <p align="center">
